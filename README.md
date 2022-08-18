@@ -1,4 +1,4 @@
-# octa-bank
+# Octa Bank
 
 Java web project 
 
