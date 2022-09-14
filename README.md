@@ -18,6 +18,7 @@ Java web project
 ## What are we using in this project?
 - Java
 - Spring Boot
+- Spring Security
 - Object-oriented Programming (OOP)
 - Use Case Diagram
 - Class diagram
