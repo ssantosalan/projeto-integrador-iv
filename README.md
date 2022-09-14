@@ -11,7 +11,7 @@ Java web project
         <li>👽 Cauê Batista</li>
         <li>👽 Gustavo Idalgo</li>
         <li>👽 Jorge luiz dos Santos Oliveira</li>
-        <li>👽 Rôdrigo Assunção</li>
+        <li>👽 Rodrigo Assunção</li>
     </ul>
 </p>
 
