@@ -11,13 +11,14 @@ Java web project
         <li>👽 Cauê Batista</li>
         <li>👽 Gustavo Idalgo</li>
         <li>👽 Jorge luiz dos Santos Oliveira</li>
-        <li>👽 Rôdrigo Assunção</li>
+        <li>👽 Rodrigo Assunção</li>
     </ul>
 </p>
 
 ## What are we using in this project?
 - Java
 - Spring Boot
+- Spring Security
 - Object-oriented Programming (OOP)
 - Use Case Diagram
 - Class diagram
