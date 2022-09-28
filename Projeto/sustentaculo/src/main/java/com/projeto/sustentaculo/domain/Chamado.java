@@ -23,9 +23,9 @@ public class Chamado {
 	private Integer id;
 
 	@JsonFormat(pattern = "dd/MM/yyyy")
-	private LocalDate dateAbertura = LocalDate.now();
+	private LocalDate dataAbertura = LocalDate.now();
 	@JsonFormat(pattern = "dd/MM/yyyy")
-	private LocalDate dateFechamento;
+	private LocalDate dataFechamento;
 
 	private Prioridade prioridade;
 	private Status status;
@@ -64,20 +64,20 @@ public class Chamado {
 		this.id = id;
 	}
 
-	public LocalDate getDateAbertura() {
-		return dateAbertura;
+	public LocalDate getDataAbertura() {
+		return dataAbertura;
 	}
 
-	public void setDateAbertura(LocalDate dateAbertura) {
-		this.dateAbertura = dateAbertura;
+	public void setdataAbertura(LocalDate dataAbertura) {
+		this.dataAbertura = dataAbertura;
 	}
 
-	public LocalDate getDateFechamento() {
-		return dateFechamento;
+	public LocalDate getDataFechamento() {
+		return dataFechamento;
 	}
 
-	public void setDateFechamento(LocalDate dateFechamento) {
-		this.dateFechamento = dateFechamento;
+	public void setdataFechamento(LocalDate dataFechamento) {
+		this.dataFechamento = dataFechamento;
 	}
 
 	public Prioridade getPrioridade() {
