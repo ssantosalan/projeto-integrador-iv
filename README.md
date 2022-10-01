@@ -28,6 +28,7 @@ Java web project
 - APIs RESTful
 - H2 Database
 - MySql Database
+- Figma
 - Object-oriented Programming (OOP)
 - Use Case Diagram
 - Class diagram
