@@ -25,6 +25,7 @@ Java web project
 - Cloud deploy
 - Typescript, HTML5 e CSS3
 - Angular
+- Node.js
 - APIs RESTful
 - H2 Database
 - MySql Database
